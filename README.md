@@ -1,6 +1,11 @@
 # DSA-Learning-series-
 This contains codes of 450 questions recommended by Love Babbar for learning DSA.
-<h2>You can see questions from</h2> 
+Keep your codes here for future refrence.
+<h2>You can see questions from here and mark your progess</h2> 
 <a href="https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Khushi260&repo=DSA-Learning-series-" />
 </a>
+
+
+<h1 color=yellow>HAPPY LEARNING!</h2>
+<h3 color=yellow>Invest in your dreams by inventing in DSA. Grind now. Shine later.</h3>

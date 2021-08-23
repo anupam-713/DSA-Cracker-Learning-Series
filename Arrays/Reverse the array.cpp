@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
+    // Inputting array from the user.	
     int n;
     cout<<"Enter the size of array: ";
     cin>>n;
@@ -9,9 +10,17 @@ int main(){
     for(int i=0; i<n; i++){
         cin>>a[i];
     }
-    
+    // Reversing the array
+    int temp;
+    for (int i = 0; i < n / 2; i++)
+    {
+        int temp = a[i];
+        a[i] = a[n - i - 1];
+        a[n - i - 1] = temp;
+    }
+    // Printing the reversed array.
     cout<<"Reversed array: ";
-    for(int i=n-1; i>=0; i--){
+    for(int i = 0; i < n; i++){
     	cout<<a[i]<<" ";
 	}
     return 0;
